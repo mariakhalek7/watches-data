@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Watch Series 999",
+      "price": "$399"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Watch4",
+      "price": "$249"
+    },
+    {
+      "id": 3,
+      "name": "Fitbit Sense",
+      "price": "$329"
+    },
+    {
+      "id": 4,
+      "name": "Garmin Venu Sq Music Edition",
+      "price": "$249"
+    },
+    {
+      "id": 5,
+      "name": "TicWatch Pro S",
+      "price": "$259"
+    }
+  ]
